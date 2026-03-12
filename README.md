@@ -190,13 +190,13 @@ hiệu ứng va chạm và explosion
 cấu trúc thư mục trong Unity:
 
 Assets
- ├── Audio
- ├── Materials
- ├── Prefabs
- ├── Scenes
- ├── Scripts
- ├── Sprites
- └── TextMesh Pro
+├── Audio
+├── Materials
+├── Prefabs
+├── Scenes
+├── Scripts
+├── Sprites
+└── TextMesh Pro
 
 Các script chính:
 
